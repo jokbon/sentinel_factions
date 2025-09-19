@@ -5,32 +5,18 @@ Factions plugin
 
 Tittle:
 
-| Tag       | [Description] | [doc]       | Description | priority:   |
-|-------------|-------------|-------------|-------------|-------------|
-| [bug]       |             |             |             | [low]       |
-| [feature]   |             |             |             | [med]       |
-| [doc]       |             |             |             | [high]      |
+| Tag         | Description | priority:   |
+|-------------|-------------|-------------|
+| (R.Q.)      | (R.Q.)      | (Optional)  |
+| [bug]       |             | [low]       |
+| [feature]   |             | [med]       |
+| [doc]       |             | [high]      |
 
 Description:
-|1 Date         |2 [nickname]   | 2 Game type   |3 [mc version] |4 java version |5 dimension:   |6 Description  |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-|(Required if bug)|(Required if connection isusue or dupe) | (Required if bug)  |3 [mc version] |4 java version |5 dimension:   |6 Description  |
-| [bug]         |               | Bedrock       |               | [low] (Not game breaking) |               |               |
-| [feature]     |               | Java          |               | [med] Game breaking)    |               |               |
-| [doc]         |               |               |               | [high]  (Core function breaking)      |               |               |
+|Date                 |[nickname]           |Game type            |[mc version]         |java version         |dimension:           |Description          | whole experience    |
+|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+|(R.Q.)               |(R.Q. if conect dupe)| (R.Q. if bug)       |(R.Q. if bug/conect) |(R.Q. if bug/conect) |(R.Q. if bug/conect) |(R.Q.)               | freespeach          |
+|                     |                     | Bedrock             |                     | [low] (ok)          |                     |                     | tell if you         |
+|                     |                     | Java                |                     | [med] (breaking)    |                     |                     | hate me :P          |
+|                     |                     |                     |                     | [high] (Core break) |                     |                     |                     |
 
-
-Description:
-1. [date] / [-] .
-(format: 2025-69-69 18:00) (Required if bug)
-
-*2. [nickname] / [-] *
-* (Required if connection isusue or dupe)
-
-4. [java] [bedrock] / [-] * (Required if bug)
-5. [important] * (Core function breaking) / [medium priority] * (Game breaking) / [low priority] * (Not game breaking) / [-]
-6. [mc version] / [-] * (Required if bug)
-7. [dimension] / [-] * (Required if bug)
-8. [java version] / [-] * (Required if connection isusue)
-9. Do you hate whole experience? * (be honest)
-10. *[isusue desc]
