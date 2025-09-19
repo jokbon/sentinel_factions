@@ -1,7 +1,7 @@
 # sentinel_factions
 Factions plugin
 
-#To report bug or request feature use isusues.
+# To report bug or request feature use isusues.
 
 Tittle:
 1. * [bug] [feature] [doc] [question]
