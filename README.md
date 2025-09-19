@@ -3,7 +3,7 @@ Factions plugin
 
 # To report bug or request feature use isusues.
 
-Tittle 
+Tittle:
 
 | Tag       | [Description] | [doc]       | Description | priority:   |
 |-------------|-------------|-------------|-------------|-------------|
@@ -11,16 +11,13 @@ Tittle
 | [feature]   |             |             |             | [med]       |
 | [doc]       |             |             |             | [high]      |
 
+Description:
+|1 Date         |2 [nickname]   | 2 Game type   |3 [mc version] |4 java version |5 dimension:   |6 Description  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| [bug]         |               | Bedrock       |               | [low]         |               |               |
+| [feature]     |               | Java          |               | [med]         |               |               |
+| [doc]         |               |               |               | [high]        |               |               |
 
-| [bug]     | [feature] | [doc]     | Description    | priority: [low][med][high]  |
-|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |
-
-
-Tittle:
-1. * [bug] [feature] [doc] [question]
-2. *[short isusue desc]
-3.  priority: [low][med][high]
 
 Description:
 1. [date] / [-] .
