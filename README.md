@@ -14,9 +14,10 @@ Tittle:
 Description:
 |1 Date         |2 [nickname]   | 2 Game type   |3 [mc version] |4 java version |5 dimension:   |6 Description  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| [bug]         |               | Bedrock       |               | [low]         |               |               |
-| [feature]     |               | Java          |               | [med]         |               |               |
-| [doc]         |               |               |               | [high]        |               |               |
+|(Required if bug)|(Required if connection isusue or dupe) | (Required if bug)  |3 [mc version] |4 java version |5 dimension:   |6 Description  |
+| [bug]         |               | Bedrock       |               | [low] (Not game breaking) |               |               |
+| [feature]     |               | Java          |               | [med] Game breaking)    |               |               |
+| [doc]         |               |               |               | [high]  (Core function breaking)      |               |               |
 
 
 Description:
