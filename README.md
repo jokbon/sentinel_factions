@@ -4,18 +4,17 @@ Factions plugin
 #To report bug or request feature use isusues.
 
 Tittle:
-1. [bug] [feature]
-2. [short isusue desc]
-3. [priority]
+1. * [bug] [feature] [doc] [question]
+2. * [short isusue desc]
+3.  priority: [low][med][high]
 
 Description:
-1. [bug] [feature]
-2. [short isusue desc]
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. [date] / [-] (format: 2025-69-69 18:00) (Required if bug)
+2. [nickname] / [-] (Required if connection isusue or dupe)
+3. [java] [bedrock] / [-]  (Required if bug)
+4. [important] (Core function breaking) / [medium priority] (Game breaking) / [low priority] (Not game breaking) / [-]
+5. [mc version] / [-] (Required if bug)
+6. [dimension] / [-] (Required if bug)
+7. [java version] / [-] (Required if connection isusue)
+8. Do you hate whole experience? (be honest)
+9. [isusue desc]
