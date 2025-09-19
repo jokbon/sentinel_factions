@@ -4,7 +4,7 @@ Factions plugin
 #To report bug or request feature use isusues.
 
 Tittle:
-1. *[bug] [feature] [doc] [question]
+1. * [bug] [feature] [doc] [question]
 2. *[short isusue desc]
 3.  priority: [low][med][high]
 
