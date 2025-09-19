@@ -10,7 +10,7 @@ Tittle:
 
 Description:
 1. [date] / [-] .
-* (format: 2025-69-69 18:00) (Required if bug)
+* (format: 2025-69-69 18:00) (Required if bug)*
 2. [nickname] / [-] 
 * (Required if connection isusue or dupe)
 4. [java] [bedrock] / [-] * (Required if bug)
