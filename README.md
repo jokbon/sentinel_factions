@@ -9,9 +9,10 @@ Tittle:
 3.  priority: [low][med][high]
 
 Description:
-1. [date] / [-] . * (format: 2025-69-69 18:00) (Required if bug)
-2. [nickname] / [-]
-3.  * (Required if connection isusue or dupe)
+1. [date] / [-] .
+* (format: 2025-69-69 18:00) (Required if bug)
+2. [nickname] / [-] 
+* (Required if connection isusue or dupe)
 4. [java] [bedrock] / [-] * (Required if bug)
 5. [important] * (Core function breaking) / [medium priority] * (Game breaking) / [low priority] * (Not game breaking) / [-]
 6. [mc version] / [-] * (Required if bug)
