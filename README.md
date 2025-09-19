@@ -16,6 +16,6 @@ Description:
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 |(R.Q.)               |(R.Q. if conect dupe)| (R.Q. if bug)       |(R.Q. if bug/conect) |(R.Q. if bug/conect) |(R.Q. if bug/conect) |(R.Q.)               | (Optional)          |
 |                     |                     | Bedrock             |                     | [low] (ok)          |                     |                     | freespeach          |
-|                     |                     | Java                |                     | [med] (breaking)    |                     |                     | tell if you         |
-|                     |                     |                     |                     | [high] (Bork)       |                     |                     | hate me :P          |
+|                     |                     | Java                |                     | [med] (core ok)     |                     |                     | tell if you         |
+|                     |                     |                     |                     | [high] (Broken)     |                     |                     | hate me :P          |
 
